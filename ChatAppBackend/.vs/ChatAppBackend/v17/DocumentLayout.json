@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\models\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\models\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\chatappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\chatappbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|c:\\users\\steve\\source\\repos\\chatappbackend\\chatappbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB65DB8-0178-48AC-94CF-392E9479443B}|ChatAppBackend\\ChatAppBackend.csproj|solutionrelative:chatappbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatAppBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:06:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\User.cs",
+              "RelativeToolTip": "ChatAppBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:02:46.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatAppBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\appsettings.json",
+              "RelativeToolTip": "ChatAppBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T22:48:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\WeatherForecast.cs",
+              "RelativeToolTip": "ChatAppBackend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:42:11.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ChatAppBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:42:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Models\\ChatDbContext.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\ChatDbContext.cs",
+              "RelativeToolTip": "ChatAppBackend\\Models\\ChatDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:33:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Models\\Message.cs",
+              "RelativeToolTip": "ChatAppBackend\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:16:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatAppBackend\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:18:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatAppBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\ChatAppBackend.csproj",
+              "RelativeDocumentMoniker": "ChatAppBackend\\ChatAppBackend.csproj",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\ChatAppBackend.csproj",
+              "RelativeToolTip": "ChatAppBackend\\ChatAppBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T20:17:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAppBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\ChatAppBackend\\ChatAppBackend\\Program.cs",
+              "RelativeToolTip": "ChatAppBackend\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:06:23.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
